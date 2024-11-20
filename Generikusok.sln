@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kulcsertekparok", "kulcsert
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taviranyito", "Taviranyito\Taviranyito.csproj", "{74422EDD-33C9-4079-A67E-877B6584658B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerikusAdatbazisKezelo", "GenerikusAdatbazisKezelo\GenerikusAdatbazisKezelo.csproj", "{D33060B4-93CF-488C-9E56-CBB75A6B7E69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{74422EDD-33C9-4079-A67E-877B6584658B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74422EDD-33C9-4079-A67E-877B6584658B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74422EDD-33C9-4079-A67E-877B6584658B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33060B4-93CF-488C-9E56-CBB75A6B7E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33060B4-93CF-488C-9E56-CBB75A6B7E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33060B4-93CF-488C-9E56-CBB75A6B7E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33060B4-93CF-488C-9E56-CBB75A6B7E69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
